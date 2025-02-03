@@ -1,4 +1,3 @@
-# Python
 
 def quadrado(numero):
     resultado = numero ** 2  # Variável local
